@@ -18,6 +18,6 @@
 
 ## not-yet-used
 
-| Challenges Name                                                                                             | Category | Description                                                  |
-| ----------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------ |
-| [Pseudo_Encryption_2]()                   | misc     | `Pseudo_Encryption_2.zip`                                    |
+| Challenges Name                                                                                                                        | Category | Description                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------ |
+| [Pseudo_Encryption_2](https://github.com/HeyMrSalt/My-CTF-Challenges/blob/main/not-yet-used/Pseudo_Encryption_2.zip)                   | misc     | `Pseudo_Encryption_2.zip`                                    |
