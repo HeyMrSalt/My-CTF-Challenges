@@ -1,4 +1,4 @@
-# My-CTF-Challenges [![Hits](https://hits.sh/github.com/heymrslat/my-ctf-challenges.svg)](https://hits.sh/github.com/heymrslat/my-ctf-challenges/)
+# My-CTF-Challenges [![Hits](https://hits.sh/github.com/heymrsalt/my-ctf-challenges.svg)](https://hits.sh/github.com/heymrsalt/my-ctf-challenges/)
 > Personally Designed CTF Challenges 🚩
 
 ## is1abCTF
